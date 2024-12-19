@@ -4,6 +4,7 @@
 # Binaries for programs and plugins
 pixel_party_core/.idea/
 pixel_party_web/.idea/
+.idea
 *.exe
 *.exe~
 *.dll
